@@ -66,3 +66,11 @@ https://github.com/nikzad-avasam/youtube-dl
 
 در صورت مفید بودن این ابزار از ما حمایت کنید تا بتوانیم ابزارهای مشابه در شرایط خاص را بسازیم.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [mobile_scanner](https://github.com/heropagenotfound-sketch/downloader/tree/main/downloads/mobile_scanner)
+
+---
